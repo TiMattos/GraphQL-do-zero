@@ -73,10 +73,10 @@ autobind:
 models:
   Category:
     model:
-      - github.com/timattos/GRAPHQL-DO-ZERO/graph/model.Category
+      - github.com/timattos/GraphQL/graph/model.Category
   Course:
     model:
-      - github.com/timattos/GRAPHQL-DO-ZERO/graph/model.Course
+      - github.com/timattos/GraphQL/graph/model.Course
   ID:
     model:
       - github.com/99designs/gqlgen/graphql.ID
